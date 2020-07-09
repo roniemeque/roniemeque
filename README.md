@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+SHOW LATEST BLOG POST HERE! EVEN BETTER, MAKE AN AUTOMATION FOR IT!!!!
+
 **roniemeque/roniemeque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
